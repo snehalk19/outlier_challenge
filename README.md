@@ -1,11 +1,4 @@
-![Outlier.org](https://i.imgur.com/vJowpL1.png)
-
----
-
-# Outlier Engineering Git Challenge
-
-At Outlier, you will be expected to be able to contribute features and fixes without causing conflicts and other version control headaches. An important tool for keeping codebases clean is `git rebase`. This challenge will test your understanding of a basic codebase and your ability to use `git rebase` properly.
-
+Example of Git Rebase
 ## The Challenge
 
 There are two pull requests open on this repo. Each change is in its own branch. The challenge is to use `git rebase` to add both changes to `master`. When you are finished, your `master` branch should have three commits in the following order:
